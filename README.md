@@ -1,2 +1,2 @@
 # Prueba1
-# Autor: Ginés Ruiz Bueno
+ Autor: Ginés Ruiz Bueno
